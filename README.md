@@ -1,3 +1,7 @@
+> **Warning**  
+> This project is **abandoned** - you can use the general PHP [**ecologi-sdk**](https://github.com/Astrotomic/ecologi-sdk).  
+> `composer require astrotomic/ecologi-sdk`
+
 # Laravel Ecologi
 
 ## Installation
